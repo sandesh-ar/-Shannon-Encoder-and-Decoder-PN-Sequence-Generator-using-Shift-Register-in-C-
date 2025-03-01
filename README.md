@@ -1,4 +1,4 @@
-# 🔄 Shannon Encoder and Decoder & PN Sequence Generator using Shift Register in C  
+# Shannon Encoder and Decoder & PN Sequence Generator using Shift Register in C  
 
 ## 📌 Overview  
 This repository contains **C programs** for:  
